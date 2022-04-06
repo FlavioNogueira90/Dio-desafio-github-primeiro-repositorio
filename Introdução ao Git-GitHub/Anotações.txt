@@ -1,1 +1,6 @@
-Teste inicial ao Git
+Comandos Git
+git clone	-> clonar repositório
+git status	-> verificar se existem alterações 
+git add .	-> adiciona todos arquivos pendentes
+git commit - m	-> efetua a gravação dos arquivos no git (-m "descrição do commit")
+git push origin main -> publica o comit no repositório on line
